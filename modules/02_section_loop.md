@@ -9,8 +9,8 @@ Use consistent terms: self-attention, encoder-decoder, Transformer.
 Keep the original order.
 
 
-Module 02: Section Loop  
-Change Log  
+ 
+Change Log: Nov 25, 2025
 - Added the summary_level variable.  
 - Added conditional behavior for short and detailed summaries.  
 - Added instructions for paragraph and bullet list outputs.
