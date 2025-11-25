@@ -7,7 +7,7 @@ Check for hallucination risks.
 Add chunking rules for long papers.
 
   
-Change Log: Nov 25, 2025
+Change Log:: Nov 25, 2025
 - Added strict evidence mode.  
 - Added clear rules for missing, empty, and short section warnings.  
 - Added exposed messages that prevent unsupported claims.
